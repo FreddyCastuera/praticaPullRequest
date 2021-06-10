@@ -1,3 +1,3 @@
 # praticaPullRequest
-un repo donde practicaremos el pull request
-estoy mamadisimo hdtpm.
+# Saludos de parte de Lynx
+#estoy mamadisimo hdtpm
